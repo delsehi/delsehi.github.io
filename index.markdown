@@ -4,3 +4,7 @@
 
 layout: home
 ---
+
+Vad är meningen med livet?
+
+Inte är det Jekyll i alla fall. 
