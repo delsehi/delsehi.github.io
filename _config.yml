@@ -23,7 +23,7 @@ email: loock@leitet.com
 description: >- # this means to ignore newlines until "baseurl:"
   Det här är min webbplats som jag använder i en kurs på UDM. Ok.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: http://delsehi.github.io/
+url: http://delsehi.github.io
 twitter_username: derufui
 github_username:  delsehi
 
