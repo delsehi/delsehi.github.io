@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /
+
+# Thank you for being a robot. 

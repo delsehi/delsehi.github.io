@@ -20,8 +20,6 @@
 
 
 
-
-
    /* SITE */
 
 
@@ -31,6 +29,4 @@
    Standards: HTML5, CSS3,..
 
 
-
-                               
-   Software: Atom, Jekyll, Docker
+   Software: Atom, Jekyll, Docker, Sass
