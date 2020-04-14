@@ -29,7 +29,7 @@ instagram_username: del.sehi
 
 
 # Build settings
-theme: minima
+theme: jekyll-theme-cayman
 plugins:
   - jekyll-feed
 
