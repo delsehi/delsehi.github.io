@@ -1,8 +1,14 @@
 ---
 layout: default
-title: "Happy Jekylling!"
+title: "Delfi Sehidic"
 ---
 
-## You're ready to go!
+## Delfi Sehidic
 
-Start developing your Jekyll website.
+Site under construction.
+
+Will soon be my portfolio page.
+
+Please have a look at my app [LearnTheAbjad](https://delsehi.github.io/learntheabjad/).
+
+Contact me at [LinkedIn](https://www.linkedin.com/in/delfisehidic/). 
