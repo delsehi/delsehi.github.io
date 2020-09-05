@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Delfi Sehidic"
+title: "Start"
 ---
 
 ## Delfi Sehidic
@@ -11,4 +11,4 @@ Will soon be my portfolio page.
 
 Please have a look at my app [LearnTheAbjad](https://delsehi.github.io/learntheabjad/).
 
-Contact me at [LinkedIn](https://www.linkedin.com/in/delfisehidic/). 
+Contact me at [LinkedIn](https://www.linkedin.com/in/delfisehidic/).

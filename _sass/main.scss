@@ -6,4 +6,14 @@ body {
   background: $backgroundColor;
   color: $bodyColor;
   font-family: $bodyFont;
+  text-align: center;
+}
+
+nav {
+
+}
+
+.current {
+  background: red;
+  color: white;
 }
