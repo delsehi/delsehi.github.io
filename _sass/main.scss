@@ -2,12 +2,13 @@ $backgroundColor: #ffffff;
 $bodyColor: #000000;
 $bodyFont: Baskerville,-apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";
 
+$headerFont: Avenir;
+
 // Trying a palette
 $navy: #00293c;
 $blue: #1e656d;
 $ivory: #f1f3ce;
 $red: #f62a00;
-
 
 body {
   background: $backgroundColor;
@@ -17,6 +18,9 @@ body {
   padding: 0;
   margin: 0;
   font-size: large;
+}
+h1, h2, h3, h4, h5 {
+  font-family: $headerFont;
 }
 
 main {
@@ -38,6 +42,7 @@ nav a {
 nav a:hover {
   background: $blue;
 }
+
 
 li {text-decoration: none;list-style: none;}
 
