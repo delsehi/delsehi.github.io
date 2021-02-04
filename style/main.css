@@ -1,0 +1,40 @@
+*, *:before, *:after {
+    margin: 0;
+    padding: 0;
+	box-sizing: border-box;
+}
+
+body {
+    font-family: 'Open Sans', sans-serif;
+    max-width: 100%;
+}
+
+img {
+    max-width: 100%;
+}
+
+section {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: #f7f7f7;
+    padding: 5rem 0;
+}
+
+#start {
+    background-color: rgb(221, 221, 7);
+}
+
+.projects {
+    width: 70%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    padding: 2rem 0 0 0;
+}
+
+.projects div {
+    width: 33%;
+}
